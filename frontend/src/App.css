@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  background: #16213e;
+  color: #00d1ff;
+  min-height: 100vh;
+  padding: 20px;
+  font-family: Arial;
+}
+
+button {
+  background: #00d1ff;
+  color: #16213e;
+  border: none;
+  padding: 12px 24px;
+  margin: 10px;
+  font-size: 18px;
+  cursor: pointer;
+  border-radius: 8px;
+}
